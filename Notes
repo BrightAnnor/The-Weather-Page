@@ -1,0 +1,23 @@
+This weather site is a class project.
+you are suppose to enter the city you want to check their weather in the searchbar and click the search button for the resluts to be displayed in between the allocated tags.
+
+This project is aimed at the search functionality and the ability to fetch data from an api.
+
+The focus of the search functionality in this project is the search and get resluts.
+
+the Axios libary was used to fetch data from the Open Weather Map to give current or updated results.
+
+
+This project is for learning purposes...
+
+This project can be updated by adding a filter to the search functionality.. which should be able to suggest a city while you type.
+
+The project also can display on its background the weather condition in the city also.
+
+
+
+The page is designed for desktop screen preview...
+
+
+
+
