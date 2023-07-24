@@ -30,8 +30,8 @@ const submitCity = document.getElementById('inputSubmit')
 
 
 submitCity.addEventListener('click',()=>{
-    if(cityName.value ==='' ){
-        console.log('its empty')
+    if(cityName.value.trim().length <1 ){
+        alert('its empty')
     }
     else{getWeather(cityName.value)}
 })
