@@ -1,7 +1,7 @@
 // fetching data from the Weather api
 
 // apiKey
-import apiKey from "./apiKey"
+import apiKey from "./apiKey.js"
 
 // creating a function to get the weather data
 
