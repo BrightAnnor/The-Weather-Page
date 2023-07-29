@@ -1,7 +1,7 @@
 // fetching data from the Weather api
 
 // apiKey
-const apiKey = 'f24f08cc39bf03b73b5c266fef60d1b9';
+import apiKey from "./apiKey"
 
 // creating a function to get the weather data
 
